@@ -98,29 +98,20 @@ content:
           ***Infrastructure as Code***: AWS SAM, CloudFormation
          
           ***Scripting***: Python, Java
-  - title: Education # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: right
-        title: North Greenville University
-        caption: 2015 - 2019
-        sub_title: Bachelor of Education - BEd
+        title: Teacher
+        caption: Aug 2019 - Present
+        sub_title: Spartanburg District Five Schools
         quote: >
-          Pursued a Degree in Elementary Education
         description: | # this will include new lines to allow paragraphs
-          Picked up many skills for communication, Public Speaking, and Presenting information.
           
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      I spend my free time pursuing interest such as disk golfing, rock climbing, music, and history.
 
 # Footer
 footer_show_references: true
