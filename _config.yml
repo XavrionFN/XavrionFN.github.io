@@ -83,9 +83,13 @@ content:
         quote: >
           Pursued a Degree in Elementary Education
         description: | # this will include new lines to allow paragraphs
-          Picked up many skills for communication, Public Speaking, and Presenting information.
-  - title: Skills 
-
+          Picked up many skills for communication, Public Speaking, and Presenting information. 
+ 
+ - title: Skills
+   Layout: list
+   content:
+    -layout: left
+      title:
 
   - title: A Little More About Me
     layout: text
