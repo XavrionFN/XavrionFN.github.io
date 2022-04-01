@@ -89,7 +89,7 @@ content:
           Picked up many skills for communication, Public Speaking, and Presenting information.
 
           
- - title: Education # Title for the section
+ - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
