@@ -85,15 +85,24 @@ content:
         description: | # this will include new lines to allow paragraphs
           Picked up many skills for communication, Public Speaking, and Presenting information. 
           
-  - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
+- title: Skills
+    layout: list
     content:
-      - layout: left
-        title: North Greenville University
-        title: North Greenville University
-        title: North Greenville University        
-        title: North Greenville University        
-        title: North Greenville University        
+      - layout: top-right
+        description: | # this will include new lines to allow paragraphs
+          ***Cloud Skills***: AWS (EC2, ECS, EKS, EBS, ALB, Lambda, API Gateway, DynamoDB, SQS, MQ), Azure (Administrative)
+          
+          ***Containerization***: Docker / Kubernetes
+          
+          ***CI/CD***: Gitlab CI, Jenkins, AWS CodeDeploy, AWS CodePipeline
+          
+          ***Infrastructure as Code***: Terraform, AWS SAM, CloudFormation, proprietary tooling
+         
+          ***Scripting***: Python, ReactJS, TypeScript, Java
+          
+          ***App Development***: Python, ReactJS, C++
+          
+          ***Project Management and Leadership***      
         
         caption: 2015 - 2019
         sub_title: Bachelor of Education - BEd
