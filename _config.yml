@@ -72,9 +72,6 @@ content:
         # link_text: boringcompany.com
         caption: BWMDQ45L3B44Q233
         caption: Issued Jan 2022 - Expires Jan 2025
-        quote: >
-      
-        description: | # this will include new lines to allow paragraphs
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -88,8 +85,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Picked up many skills for communication, Public Speaking, and Presenting information.
 
-          
- - title: Experience # Title for the section
+   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
