@@ -85,10 +85,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           Picked up many skills for communication, Public Speaking, and Presenting information. 
   - title: Skills
-      layout: list
-      content:
-        - layout: top-right
-         description: | # this will include new lines to allow paragraphs
+    layout: list
+    content:
+      - layout: top-right
+        description: | # this will include new lines to allow paragraphs
           ***Cloud Skills***: AWS (EC2, ECS, EKS, EBS, ALB, Lambda, API Gateway, DynamoDB, SQS, MQ), Azure (Administrative)
           
           ***Containerization***: Docker / Kubernetes
