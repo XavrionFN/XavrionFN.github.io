@@ -85,15 +85,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           Picked up many skills for communication, Public Speaking, and Presenting information. 
           
-  - title: Education # Title for the section
+  - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: North Greenville University
+        title: North Greenville University
+        title: North Greenville University        
+        title: North Greenville University        
+        title: North Greenville University        
+        
         caption: 2015 - 2019
         sub_title: Bachelor of Education - BEd
-        quote: >
-          Pursued a Degree in Elementary Education
         description: | # this will include new lines to allow paragraphs
           Picked up many skills for communication, Public Speaking, and Presenting information. 
           
