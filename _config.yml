@@ -51,21 +51,18 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+      - layout: left
+        title: Professional Resume Website
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Static Website hosted using AWS (S3, Cloudfront, and DynamoDB)
         description: | # this will include new lines to allow paragraphs
-          Aspiring Devops engineer with experience in developing websites using AWS cloud services, while integrating updates using GitHub, and python. I am always looking to expand my knowledge of new applications and best practices to find the reliable and fast solution to cloud based problems.
+          Researched and implemented a static website using AWS S3 buckets for hosting and Cloudfront for Security. Using Javascript implemented a visitor counter that retrieved and stored its data from DynamoDB using AWS gateway for the API. Designed tests using python and SAM to deploy the new API resources. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
