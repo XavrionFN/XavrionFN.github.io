@@ -76,7 +76,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: North Greenville University
         caption: 2015 - 2019
         sub_title: Bachelor of Education - BEd
@@ -89,19 +89,16 @@ content:
     content:
       - layout: top-right
         description: | # this will include new lines to allow paragraphs
-          ***Cloud Skills***: AWS (EC2, ECS, EKS, EBS, ALB, Lambda, API Gateway, DynamoDB, SQS, MQ), Azure (Administrative)
+          ***Cloud Skills***: AWS (EC2, S3, Lambda, API Gateway, DynamoDB, SQS)
           
           ***Containerization***: Docker / Kubernetes
           
-          ***CI/CD***: Gitlab CI, Jenkins, AWS CodeDeploy, AWS CodePipeline
+          ***CI/CD***: Gitlab CI, AWS CodeDeploy, AWS CodePipeline
           
-          ***Infrastructure as Code***: Terraform, AWS SAM, CloudFormation, proprietary tooling
+          ***Infrastructure as Code***: AWS SAM, CloudFormation
          
-          ***Scripting***: Python, ReactJS, TypeScript, Java
-          
-          ***App Development***: Python, ReactJS, C++
-          
-          ***Project Management and Leadership***
+          ***Scripting***: Python, Java
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
