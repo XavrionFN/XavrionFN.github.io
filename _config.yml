@@ -84,13 +84,20 @@ content:
           Pursued a Degree in Elementary Education
         description: | # this will include new lines to allow paragraphs
           Picked up many skills for communication, Public Speaking, and Presenting information. 
- 
- - title: Skills
-   Layout: list
-   content:
-    -layout: left
-      title:
-
+          
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: North Greenville University
+        caption: 2015 - 2019
+        sub_title: Bachelor of Education - BEd
+        quote: >
+          Pursued a Degree in Elementary Education
+        description: | # this will include new lines to allow paragraphs
+          Picked up many skills for communication, Public Speaking, and Presenting information. 
+          
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
